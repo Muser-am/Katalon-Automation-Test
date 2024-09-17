@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>91f98163-1ed1-477b-aea5-7b493e5bb416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.b-slider-image__play-button.h-flex-center > svg.icon.sprite-icons > use</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//use[@href = '/_nuxt/5cbbbc956762c817e41cc6601951bd0f.svg#i-audio-player-start']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>9b7102e1-abf7-4bdf-b2fc-b8c20a036de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/_nuxt/5cbbbc956762c817e41cc6601951bd0f.svg#i-audio-player-start</value>
+      <webElementGuid>e3d9276d-52d8-45e2-a50d-1decd6128a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/_nuxt/5cbbbc956762c817e41cc6601951bd0f.svg#i-audio-player-start</value>
+      <webElementGuid>73bddafa-a3ad-4ec9-a2fe-280d63bd9ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;b-body-wrapper js-body-wrapper&quot;]/div[@class=&quot;h-bg-jiji-body h-min-height-100p h-width-100p h-flex&quot;]/div[@class=&quot;b-app__wrapper&quot;]/div[@class=&quot;b-content-wrapper&quot;]/div[1]/div[@class=&quot;qa-advert-page h-pos-rel b-advert-page-wrapper container h-pt-10&quot;]/div[1]/div[@class=&quot;b-advert-seller-info-wrapper&quot;]/div[@class=&quot;b-advert-item-wrapper&quot;]/div[@class=&quot;b-advert-card-wrapper&quot;]/div[1]/div[@class=&quot;b-advert-carousel&quot;]/div[@class=&quot;b-advert-carousel__image h-pos-rel h-max-width-100vw b-advert-carousel__image--has-badges&quot;]/div[@class=&quot;VueCarousel qa-carousel-card b-carousel-card h-pointer&quot;]/div[@class=&quot;VueCarousel-wrapper&quot;]/div[@class=&quot;VueCarousel-inner&quot;]/div[@class=&quot;VueCarousel-slide&quot;]/div[@class=&quot;b-slider-image__wrapper&quot;]/div[@class=&quot;b-slider-image__play h-flex-center&quot;]/div[@class=&quot;b-slider-image__play-button h-flex-center&quot;]/svg[@class=&quot;icon sprite-icons&quot;]/use[1]</value>
+      <webElementGuid>c1400be9-01f8-4486-a77f-80c59aff89b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '/_nuxt/5cbbbc956762c817e41cc6601951bd0f.svg#i-audio-player-start']</value>
+      <webElementGuid>d35635e6-0a20-478c-83af-b1e2188ea017</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

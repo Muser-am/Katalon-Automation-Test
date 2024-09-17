@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vehicles</name>
+   <tag></tag>
+   <elementGuidId>6ad84eb4-d4f7-4d44-ae14-75fcde5d119e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.b-categories-block-item.b-categories-block-item--image > a.b-categories-block-item__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/div[2]/div/div/div[2]/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09cbd2dd-1ae4-413d-884d-9d7c6f0a9fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/vehicles</value>
+      <webElementGuid>079fb007-1f12-4df0-9343-052f569dc892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b-categories-block-item__inner</value>
+      <webElementGuid>45df427d-4463-40dd-a71d-ae5825861325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+      Vehicles
+    </value>
+      <webElementGuid>cdc7535d-573b-4ba0-ba56-a879086fc41c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;b-body-wrapper js-body-wrapper&quot;]/div[@class=&quot;h-bg-jiji-body h-min-height-100p h-width-100p h-flex&quot;]/div[@class=&quot;b-app__wrapper&quot;]/div[@class=&quot;b-content-wrapper&quot;]/div[1]/div[@class=&quot;b-main-page&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;b-main-page__inner&quot;]/div[@class=&quot;b-main-page-categories-wrapper&quot;]/ul[@class=&quot;b-categories-blocks-list b-main-page__categories-block-list&quot;]/li[@class=&quot;b-categories-block-item b-categories-block-item--image&quot;]/a[@class=&quot;b-categories-block-item__inner&quot;]</value>
+      <webElementGuid>ec683df2-dccf-43c0-9b8a-51acea628fc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div[2]/div/div/div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>ce7dcf05-f391-447c-97ae-acdbfb57bb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am looking for...'])[1]/following::a[2]</value>
+      <webElementGuid>eed34ca5-502d-4551-9fd1-302f38d77c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Nigeria'])[1]/following::a[2]</value>
+      <webElementGuid>72fab380-558c-457f-9f87-fe4bb91502f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trending ads'])[1]/preceding::a[16]</value>
+      <webElementGuid>d2027aaa-34ee-4426-85ed-bfe4211a0d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise'])[1]/preceding::a[16]</value>
+      <webElementGuid>ad3c3c1c-62d9-414c-9747-baadf3b748e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/vehicles')]</value>
+      <webElementGuid>536d0680-4ad0-41fa-8124-56f44c835a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>47563f94-ebff-40d6-b5a1-ed2ea412c8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/vehicles' and (text() = ' 
+      Vehicles
+    ' or . = ' 
+      Vehicles
+    ')]</value>
+      <webElementGuid>ae7c579f-0ce5-4518-8582-15305f011f1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

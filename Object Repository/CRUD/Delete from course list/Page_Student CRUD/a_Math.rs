@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Math</name>
+   <tag></tag>
+   <elementGuidId>d321026b-beea-4281-9328-39512d22c79f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Math'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>115ec0a9-faf1-470b-a239-d103bd6c5103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/courses/5</value>
+      <webElementGuid>bd9c24a9-6cbd-4cff-bdd6-9a50cdc673be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action d-flex justify-content-between</value>
+      <webElementGuid>135b433f-337f-40e7-94d1-57d7da6fd38b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Math
+                                </value>
+      <webElementGuid>9e0f69b3-354a-4c33-a877-193a6340c9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid mt-5&quot;]/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;card mt&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;list-group&quot;]/a[@class=&quot;list-group-item list-group-item-action d-flex justify-content-between&quot;]</value>
+      <webElementGuid>63308f28-6555-46dd-b253-7f17644874df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Math'])[1]/following::a[1]</value>
+      <webElementGuid>eeac70ec-929d-45f3-bf1b-d3cd2eae2df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English Language'])[1]/following::a[2]</value>
+      <webElementGuid>cfa91535-caa1-4a9d-8188-c2a4cd983ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mathe'])[1]/preceding::a[1]</value>
+      <webElementGuid>d2eca316-181e-4548-b82a-dfdf06f871f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/courses/5')]</value>
+      <webElementGuid>e1bacb00-b06a-43b1-9456-f2194bc1cb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>b44e6ed8-c861-4435-adc9-189fc26ce8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/courses/5' and (text() = '
+                                    Math
+                                ' or . = '
+                                    Math
+                                ')]</value>
+      <webElementGuid>e08060eb-b960-414a-9760-7b300beb476c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

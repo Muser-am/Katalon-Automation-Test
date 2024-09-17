@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Delete_1_2</name>
+   <tag></tag>
+   <elementGuidId>dc6579bc-5e12-4fed-b09b-53a83fc3280a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Delete')])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2d42f44-ff06-4886-81c3-2cc6c1e0c7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/student-courses/5/delete</value>
+      <webElementGuid>2c9a3f02-64d3-4628-aa2b-119bd3ab290c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-danger</value>
+      <webElementGuid>9ddde55e-1195-4dbf-874e-ddf1cd5f109d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>aae2ea3a-bf2c-4745-9303-d7b27d79eb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid mt-5&quot;]/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;card mt-2&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;list-group&quot;]/div[@class=&quot;list-group-item d-flex justify-content-between&quot;]/div[2]/a[@class=&quot;btn btn-sm btn-danger&quot;]</value>
+      <webElementGuid>7156a7a3-2b84-4303-92a0-e1bcd6050190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Delete')])[4]</value>
+      <webElementGuid>f60bc527-3568-4e7e-8b98-7ec41f699944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mechanical Engineering Technology-002'])[3]/following::a[1]</value>
+      <webElementGuid>7c58afbb-5d3c-4ec7-9724-fc95ffa785be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/following::a[1]</value>
+      <webElementGuid>a7f1801b-66ad-4b08-bbf7-5eca6d5c9e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mechanical Engineering Technology-002'])[4]/preceding::a[1]</value>
+      <webElementGuid>3375a267-1401-4622-a2cc-8a6e521e7058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[5]/preceding::a[1]</value>
+      <webElementGuid>c75765a3-eb7a-4607-b736-a030ac35e648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/student-courses/5/delete')]</value>
+      <webElementGuid>e43c1f0a-0e5e-4a81-95d0-a3c24284cb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>151700ae-8e0e-4a95-8a16-a00f8b5013f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/student-courses/5/delete' and (text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>1f8ca715-6f0d-495e-abac-34fff0dbbfc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

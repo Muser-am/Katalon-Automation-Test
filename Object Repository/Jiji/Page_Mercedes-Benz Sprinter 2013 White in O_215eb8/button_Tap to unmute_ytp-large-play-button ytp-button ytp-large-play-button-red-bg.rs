@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tap to unmute_ytp-large-play-button ytp-button ytp-large-play-button-red-bg</name>
+   <tag></tag>
+   <elementGuidId>01469a85-30f5-4559-b2b7-6970615f2cad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-large-play-button.ytp-button.ytp-large-play-button-red-bg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa8a79d1-d49d-4811-b66a-b083d9625474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-large-play-button ytp-button ytp-large-play-button-red-bg</value>
+      <webElementGuid>126f86a6-0646-44a3-9620-aafda62c29f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Play</value>
+      <webElementGuid>c6995aaf-fa15-4587-9a6f-8f3e84ee6ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Play</value>
+      <webElementGuid>5e75d938-ce5e-4da1-8456-1c370e81756d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-cued-thumbnail-overlay&quot;]/button[@class=&quot;ytp-large-play-button ytp-button ytp-large-play-button-red-bg&quot;]</value>
+      <webElementGuid>93d75f85-b87e-47eb-849f-cb605b5d906f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Jiji/Page_Mercedes-Benz Sprinter 2013 White in O_215eb8/iframe_images_youtube-player-1</value>
+      <webElementGuid>ab9a4409-5185-42ec-8ec6-8f8b3cedf4f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[4]/button</value>
+      <webElementGuid>18fad09b-541b-42c5-ba2c-d5ba9e212a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap to unmute'])[1]/following::button[1]</value>
+      <webElementGuid>9741a7d3-994f-41f9-8616-1860373a0141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping'])[1]/following::button[3]</value>
+      <webElementGuid>54b70901-7340-42d1-aa71-440b78267e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More videos'])[1]/preceding::button[4]</value>
+      <webElementGuid>15ab7acc-4db4-41be-adcb-aa05d1fcbf69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>ef46ef6e-77ef-4754-a17a-0954e80a6283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Play']</value>
+      <webElementGuid>1fd8920a-e0ad-4d6e-b237-cdf7d0a17cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

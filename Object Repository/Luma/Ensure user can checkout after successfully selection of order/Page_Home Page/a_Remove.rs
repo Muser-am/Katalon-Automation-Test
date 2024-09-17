@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Remove</name>
+   <tag></tag>
+   <elementGuidId>6a580249-ebf1-44bc-a83a-69be2830d304</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ol[@id='mini-cart']/li/div/div/div[3]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df3712ff-c5c4-4fd0-ab6f-2a8150a9a418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e56d2c35-4f1b-4f28-8ced-0594bfe69013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {'data-cart-item': item_id, title: $t('Remove item')}</value>
+      <webElementGuid>b26c018a-b8c1-4b1e-96a7-f22259fc11fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action delete</value>
+      <webElementGuid>b40b58f3-434b-4f63-8a15-90485615871c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cart-item</name>
+      <type>Main</type>
+      <value>93</value>
+      <webElementGuid>d04a06b5-2c34-4570-86ab-387359a3266b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove item</value>
+      <webElementGuid>f89baac2-39a3-4665-99ca-084bd9acadb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Remove
+                    </value>
+      <webElementGuid>43d89564-9da5-4453-82c7-d1aec0570155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mini-cart&quot;)/li[@class=&quot;item product product-item odd last&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-item-details&quot;]/div[@class=&quot;product actions&quot;]/div[@class=&quot;secondary&quot;]/a[@class=&quot;action delete&quot;]</value>
+      <webElementGuid>72e60521-5d20-45c1-ae29-b86a8b4cd4cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ol[@id='mini-cart']/li/div/div/div[3]/div[2]/a</value>
+      <webElementGuid>fc68952e-9aa0-45aa-8fb9-86d2973e4938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::a[1]</value>
+      <webElementGuid>c60e8cb2-5d87-4004-a62f-e77ce337ec8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::a[2]</value>
+      <webElementGuid>016ddb6b-b1cf-4f2d-962a-a937818fd539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breathe-Easy Tank'])[1]/preceding::a[2]</value>
+      <webElementGuid>c289d4f8-93db-4975-8e2a-9151a71877f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>9f43be7d-e36d-47a1-b063-c72f07b1692c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>2ee55c4c-9694-4513-87df-e9cf381d5f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @title = 'Remove item' and (text() = '
+                        Remove
+                    ' or . = '
+                        Remove
+                    ')]</value>
+      <webElementGuid>e4f32ce4-7330-4f14-a97f-193ae4e3c149</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
